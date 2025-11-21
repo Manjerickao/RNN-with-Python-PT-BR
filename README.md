@@ -11,3 +11,4 @@ Erick Soares, Gabriel Porto
     ```bash
     pip install tensorflow pandas numpy matplotlib
 
+
