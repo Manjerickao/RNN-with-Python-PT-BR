@@ -10,3 +10,5 @@ Erick Soares, Gabriel Porto
     - Caso alguma biblioteca não seja encontrada, instale com:
     ```bash
     pip install tensorflow pandas numpy matplotlib
+
+    Youtube video com apresentação: https://www.youtube.com/watch?v=y7qNDP53Kbw
