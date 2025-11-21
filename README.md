@@ -1,22 +1,12 @@
-# Redes Neurais Recorrentes
+Redes Neurais Recorrentes
 
-Roberto J. Mahl
+Erick Soares, Gabriel Porto
 
-- RNN_Roberto_Mahl_Example1.py: Exemplo com dados de trânsito de Chicago
-    - Execução: 
-    ```bash 
-    python3 RNN_Roberto_Mahl_Example1.py
+- RNN_Temperatura_Jena.py: Previsão de temperatura usando dados climáticos de Jena (Alemanha)
+    - Execução:
+    ```bash
+    python3 RNN_Temperatura_Jena.py
     ```
-    - Caso alguma biblioteca não seja encontrada, instale com:|
-    ```bash 
-    pip install <nome>
-    ```
-- RNN_Roberto_Mahl_Example2.py: Exemplo com texto
-    - Execução: 
-    ```bash 
-    python3 RNN_Roberto_Mahl_Example2.py
-    ```
-    - Caso alguma biblioteca não seja encontrada, instale com:|
-    ```bash 
-    pip install <nome>
-    ```
+    - Caso alguma biblioteca não seja encontrada, instale com:
+    ```bash
+    pip install tensorflow pandas numpy matplotlib
