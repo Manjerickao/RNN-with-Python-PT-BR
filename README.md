@@ -11,4 +11,3 @@ Erick Soares, Gabriel Porto
     ```bash
     pip install tensorflow pandas numpy matplotlib
 
-    Youtube video com apresentação: https://www.youtube.com/watch?v=y7qNDP53Kbw
